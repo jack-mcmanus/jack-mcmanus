@@ -2,16 +2,15 @@
 - **In interested in**
   - Portfolio management
   - Options pricing models
-  - Long short equity portfolios, e.g. Fama-French Six Factor Model
-  - Futures models
+  - Long-short equity strategies, e.g. Fama-French Factor Models
 - **Prior Programming Experience In**
   - C++
     - Basics of object-oriented programming
 - **I’m Currently Learning**
     -  R and Python
 -  **Projects I'm Working On**
-  -  Black-Litterman Model
-  -  Implementing Old Fama-French in Python and making additions to the code.
+    - Implementing Black-Litterman Model in Python.
+    - Implementing Fama-French Five Factor Model in Python.
 - **How To Reach Me**
   - Send me an email at jgmcmanu@ncsu.edu and I will get back to you ASAP!
 
