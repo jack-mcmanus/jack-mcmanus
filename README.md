@@ -7,8 +7,6 @@
 - **Prior Programming Experience In**
   - C++
     - Basics of object-oriented programming
-    - Headers, classes, private and public functions
-    - Custom data types trees, and so forth
 - **I’m Currently Learning**
     -  R and Python
 -  **Projects I'm Working On**
