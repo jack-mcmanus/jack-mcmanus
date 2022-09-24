@@ -16,7 +16,7 @@
 - **Projects I'm Working On**
     - Implementing Black-Litterman Model in Python.
     - Implementing Fama-French Five Factor Model in Python.
-  **Areas I'm Interested In**
+- **Areas I'm Interested In**
   - Quantitative analysis
   - Quantitative research
   - Portfolio management
