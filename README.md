@@ -1,4 +1,7 @@
-- **Hi, I’m @jack-mcmanus**
+- **Hi, I’m Jack McManus** @jack-mcmanus
+- About Me
+  - I am currently pursuing a Master of Financial Mathematics at North Carolina State University.
+  - In my coursework I will cover...
 - **In interested in**
   - Portfolio management
   - Options pricing models
