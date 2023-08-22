@@ -1,25 +1,28 @@
 - **Hi, I’m Jack McManus** @jack-mcmanus
 - **About Me**
-  - I'm new to GitHub so my profile is a work-in-progress. I will be making significant changes and uploading code in the coming weeks!
   - I am currently pursuing a Master of Financial Mathematics at North Carolina State University.
-- **I'm Currently Learning**
-  - Python and R
-  - Derivatives
-    - Options pricing models
-  - Fixed Income
+-**Languages I Know**
+  - Python and R (advanced)
+  - C++, SAS (basic)
+- **I've Studied**
+  - Derivatives pricing
+    - Forwards
+    - Futures
+    - Swaps
+    - Options and the Black-Scholes
+  - Fixed Income Pricing and Markets
     - Duration and convexity
     - Sources of bond risk
+    - MBS (tranches, waterfall, indenture, etc.)
+    - ABS
     - Treasury market
-- **Prior Programming Experience In**
-    - C++
-      - Basics of object-oriented programming
+  - Probability Theory and Statistics
+  - Stochastic Calculus
+- **Currently Learning**
+  - Machine Learning
+  - Neural networks
 - **Projects I'm Working On**
-    - Implementing Black-Litterman Model in Python.
     - Implementing Fama-French Five Factor Model in Python.
-- **Areas I'm Interested In**
-  - Quantitative analysis
-  - Quantitative research
-  - Portfolio management
 - **How To Reach Me**
   - Send me an email at jgmcmanu@ncsu.edu and I will get back to you ASAP!
 
